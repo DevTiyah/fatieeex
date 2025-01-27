@@ -100,7 +100,7 @@ export const HeroSection = () => {
       </div>
       <div className='justify-center mx-auto items-center'>
         <h1 className='z-10 font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide'>Building Top Tier Websites</h1>
-        <p className='mt-4 text-center text-white/80 md:text-lg mx-auto w-48'>
+        <p className='mt-4 text-center text-white/80 md:text-lg mx-auto w-48 md:w-2/3 lg:w-2/3'>
           I specialize in transforming designs into 
           functional and high performing websites 
           that generates more leads.
