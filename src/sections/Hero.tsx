@@ -98,11 +98,11 @@ export const HeroSection = () => {
           <div className='text-sm font-medium'>Available for work</div>
         </div>
       </div>
-      <div className='max-w-lg mx-auto'>
+      <div className='justify-center mx-auto items-center'>
         <h1 className='z-10 font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide'>Building Top Tier Websites</h1>
-        <p className='mt-4 text-center text-white/80 md:text-lg z-20'>
+        <p className='mt-4 text-center text-white/80 md:text-lg mx-auto w-48'>
           I specialize in transforming designs into 
-          functional, high performing web applications 
+          functional and high performing websites 
           that generates more leads.
         </p>
       </div>
