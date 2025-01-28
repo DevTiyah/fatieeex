@@ -1,7 +1,6 @@
 import { Header } from "@/sections/Header";
 import { HeroSection } from "@/sections/Hero";
 import '../sections/style.css'
-// import grainImage from '@/assets/images/grain.jpg'
 import { ProjectsSection } from "@/sections/Projects"
 import { TapeSection } from "@/sections/Tape";
 import { TestimonialsSection } from "@/sections/Testimonials";
